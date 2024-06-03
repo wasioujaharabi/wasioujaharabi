@@ -1,6 +1,6 @@
 ## Hi there, This is Wasiou Jaharabi👋
 
-![header](https://capsule-render.vercel.app/api?text=Hi%20There&animation=fadeIn&fontColor=00000)
+![header](https://capsule-render.vercel.app/api?text=Hi%20There&animation=fadeIn&fontColor=00000?type=waving)
 
 Experienced Python Engineer with a passion for AI and Data Science.
 
