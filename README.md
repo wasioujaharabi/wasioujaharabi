@@ -12,6 +12,8 @@ Experienced Python Engineer with a passion for AI and Data Science.
 ![Wasiou's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasioujaharabi&hide=contribs,prs)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasioujaharabi)](https://github.com/wasioujaharabi/github-readme-stats)
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python", width = "45" height = "45"/>          
