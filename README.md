@@ -9,8 +9,6 @@ Experienced Python Engineer with a passion for AI and Data Science.
 - 📫 How to reach me: wasiou.jaharabi@gmail.com
 
 
-<div class="tenor-gif-embed" data-postid="4937950" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/awkward-black-kid-gif-4937950">Awkward Black GIF</a>from <a href="https://tenor.com/search/awkward-gifs">Awkward GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 ![Wasiou's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasioujaharabi&hide=contribs,prs)
 
 
