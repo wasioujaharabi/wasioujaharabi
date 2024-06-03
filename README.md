@@ -1,13 +1,15 @@
-## Hi there 👋
+## Hi there, This is Wasiou Jaharabi👋
 
 ![header](https://capsule-render.vercel.app/api?text=Hi%20There&animation=fadeIn&fontColor=00000)
+
+Experienced Python Engineer with a passion for AI and Data Science.
 
 - 🔭 I’m currently working as a research engineer
 - 🌱 I’m currently learning Neural Networks and Deep Learning
 - 📫 How to reach me: wasiou.jaharabi@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasioujaharabi)
+![Wasiou's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasioujaharabi&hide=contribs,prs)
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
