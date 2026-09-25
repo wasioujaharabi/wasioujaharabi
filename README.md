@@ -1,11 +1,10 @@
-## Hi there, This is Wasiou Jaharabi👋
+## Tjäna, This is Wasiou Jaharabi👋
 
 ![header](https://capsule-render.vercel.app/api?text=Hi%20There&animation=fadeIn&fontColor=00000&type=waving)
 
-Experienced Python Engineer with a passion for AI and Data Science.
+Experienced Python Engineer with a passion for Deep Learning.
 
-- 🔭 I’m currently working as a research engineer
-- 🌱 I’m currently learning Neural Networks and Deep Learning
+- 🔭 I’m currently studying at University of Gothenburg/Chalmers Institute of Technology
 - 📫 How to reach me: wasiou.jaharabi@gmail.com
 
 
