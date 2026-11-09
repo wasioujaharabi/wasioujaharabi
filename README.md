@@ -1,17 +1,7 @@
-## Tjäna, This is Wasiou Jaharabi👋
-
-![header](https://capsule-render.vercel.app/api?text=Hi%20There&animation=fadeIn&fontColor=00000&type=waving)
-
-Experienced Python Engineer with a passion for Deep Learning.
-
-- 🔭 I’m currently studying at University of Gothenburg/Chalmers Institute of Technology
-- 📫 How to reach me: wasiou.jaharabi@gmail.com
-
-
-![Wasiou's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasioujaharabi&hide=contribs,prs)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasioujaharabi)](https://github.com/wasioujaharabi/github-readme-stats)
+<h1 align="center">Tjäna, I'm Wasiou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <p align="center"> <a href="https://github.com/wasioujaharabi"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MSc+Computer+Science+%40+Chalmers+%2F+GU;Teaching+computers+to+see+%F0%9F%91%80;Building+Vision+Transformers+from+scratch;Probably+waiting+on+a+GPU+job+right+now..." alt="Typing SVG" /> </a> </p>
+🧠 About me
+🎓 MSc Computer Science student at University of Gothenburg / Chalmers
+👁️ Into computer vision, self-supervised learning and deep learning
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
