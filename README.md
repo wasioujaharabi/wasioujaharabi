@@ -1,4 +1,4 @@
-<h1 align="center">Tjäna, I'm Wasiou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <p align="center"> <a href="https://github.com/wasioujaharabi"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MSc+Computer+Science+%40+Chalmers+%2F+GU;Teaching+computers+to+see+%F0%9F%91%80;Probably+waiting+on+a+GPU+job+right+now..." alt="Typing SVG" /> </a> </p>
+<h1 align="center">Tjäna, I'm Wasiou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <p align="center"> <a href="https://github.com/wasioujaharabi"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MSc+Computer+Science+%40+Chalmers+%2F+GU;Interested+in+computers+vision+%F0%9F%91%80..." alt="Typing SVG" /> </a> </p>
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
